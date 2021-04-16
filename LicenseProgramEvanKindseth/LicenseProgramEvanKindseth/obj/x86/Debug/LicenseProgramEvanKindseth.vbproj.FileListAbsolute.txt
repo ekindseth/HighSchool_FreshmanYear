@@ -1,0 +1,9 @@
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\bin\Debug\LicenseProgramEvanKindseth.exe
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\bin\Debug\LicenseProgramEvanKindseth.pdb
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\bin\Debug\LicenseProgramEvanKindseth.xml
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\obj\x86\Debug\LicenseProgramEvanKindseth.vbproj.GenerateResource.Cache
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\obj\x86\Debug\LicenseProgramEvanKindseth.exe
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\obj\x86\Debug\LicenseProgramEvanKindseth.xml
+G:\introto computer\programs\LicenseProgramEvanKindseth\LicenseProgramEvanKindseth\obj\x86\Debug\LicenseProgramEvanKindseth.pdb

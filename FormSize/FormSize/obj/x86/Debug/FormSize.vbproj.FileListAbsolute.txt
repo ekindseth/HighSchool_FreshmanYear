@@ -1,0 +1,8 @@
+G:\introto computer\programs\FormSize\FormSize\bin\Debug\FormSize.exe
+G:\introto computer\programs\FormSize\FormSize\bin\Debug\FormSize.pdb
+G:\introto computer\programs\FormSize\FormSize\bin\Debug\FormSize.xml
+G:\introto computer\programs\FormSize\FormSize\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\FormSize\FormSize\obj\x86\Debug\FormSize.vbproj.GenerateResource.Cache
+G:\introto computer\programs\FormSize\FormSize\obj\x86\Debug\FormSize.exe
+G:\introto computer\programs\FormSize\FormSize\obj\x86\Debug\FormSize.xml
+G:\introto computer\programs\FormSize\FormSize\obj\x86\Debug\FormSize.pdb

@@ -1,0 +1,9 @@
+G:\introto computer\programs\CoinStar\CoinStar\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\introto computer\programs\CoinStar\CoinStar\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\CoinStar\CoinStar\obj\x86\Debug\CoinStar.vbproj.GenerateResource.Cache
+G:\introto computer\programs\CoinStar\CoinStar\bin\Debug\CoinStar.exe
+G:\introto computer\programs\CoinStar\CoinStar\bin\Debug\CoinStar.pdb
+G:\introto computer\programs\CoinStar\CoinStar\bin\Debug\CoinStar.xml
+G:\introto computer\programs\CoinStar\CoinStar\obj\x86\Debug\CoinStar.exe
+G:\introto computer\programs\CoinStar\CoinStar\obj\x86\Debug\CoinStar.xml
+G:\introto computer\programs\CoinStar\CoinStar\obj\x86\Debug\CoinStar.pdb

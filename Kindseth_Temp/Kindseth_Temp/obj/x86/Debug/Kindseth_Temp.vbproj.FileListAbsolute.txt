@@ -1,0 +1,9 @@
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\bin\Debug\Kindseth_Temp.exe
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\bin\Debug\Kindseth_Temp.pdb
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\bin\Debug\Kindseth_Temp.xml
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\obj\x86\Debug\Kindseth_Temp.vbproj.GenerateResource.Cache
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\obj\x86\Debug\Kindseth_Temp.exe
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\obj\x86\Debug\Kindseth_Temp.xml
+G:\introto computer\programs\Kindseth_Temp\Kindseth_Temp\obj\x86\Debug\Kindseth_Temp.pdb

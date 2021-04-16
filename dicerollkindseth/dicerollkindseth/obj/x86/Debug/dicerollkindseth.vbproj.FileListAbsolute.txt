@@ -1,0 +1,9 @@
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\bin\Debug\dicerollkindseth.exe
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\bin\Debug\dicerollkindseth.pdb
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\bin\Debug\dicerollkindseth.xml
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\obj\x86\Debug\dicerollkindseth.vbproj.GenerateResource.Cache
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\obj\x86\Debug\dicerollkindseth.exe
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\obj\x86\Debug\dicerollkindseth.xml
+G:\introto computer\programs\dicerollkindseth\dicerollkindseth\obj\x86\Debug\dicerollkindseth.pdb

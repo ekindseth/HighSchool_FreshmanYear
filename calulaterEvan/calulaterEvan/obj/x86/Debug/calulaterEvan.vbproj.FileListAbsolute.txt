@@ -1,0 +1,9 @@
+G:\introto computer\programs\calulaterEvan\calulaterEvan\bin\Debug\calulaterEvan.exe
+G:\introto computer\programs\calulaterEvan\calulaterEvan\bin\Debug\calulaterEvan.pdb
+G:\introto computer\programs\calulaterEvan\calulaterEvan\bin\Debug\calulaterEvan.xml
+G:\introto computer\programs\calulaterEvan\calulaterEvan\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\introto computer\programs\calulaterEvan\calulaterEvan\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\calulaterEvan\calulaterEvan\obj\x86\Debug\calulaterEvan.vbproj.GenerateResource.Cache
+G:\introto computer\programs\calulaterEvan\calulaterEvan\obj\x86\Debug\calulaterEvan.exe
+G:\introto computer\programs\calulaterEvan\calulaterEvan\obj\x86\Debug\calulaterEvan.xml
+G:\introto computer\programs\calulaterEvan\calulaterEvan\obj\x86\Debug\calulaterEvan.pdb

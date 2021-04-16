@@ -1,0 +1,9 @@
+G:\introto computer\programs\MyFristProgram\MyFristProgram\bin\Debug\MyFristProgram.exe
+G:\introto computer\programs\MyFristProgram\MyFristProgram\bin\Debug\MyFristProgram.pdb
+G:\introto computer\programs\MyFristProgram\MyFristProgram\bin\Debug\MyFristProgram.xml
+G:\introto computer\programs\MyFristProgram\MyFristProgram\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\MyFristProgram\MyFristProgram\obj\x86\Debug\MyFristProgram.vbproj.GenerateResource.Cache
+G:\introto computer\programs\MyFristProgram\MyFristProgram\obj\x86\Debug\MyFristProgram.exe
+G:\introto computer\programs\MyFristProgram\MyFristProgram\obj\x86\Debug\MyFristProgram.xml
+G:\introto computer\programs\MyFristProgram\MyFristProgram\obj\x86\Debug\MyFristProgram.pdb
+G:\introto computer\programs\MyFristProgram\MyFristProgram\obj\x86\Debug\WindowsApplication1.Form1.resources

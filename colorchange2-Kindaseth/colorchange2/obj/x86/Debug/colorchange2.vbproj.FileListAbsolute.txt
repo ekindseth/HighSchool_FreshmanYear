@@ -1,0 +1,9 @@
+G:\introto computer\programs\colorchange2\colorchange2\bin\Debug\colorchange2.exe
+G:\introto computer\programs\colorchange2\colorchange2\bin\Debug\colorchange2.pdb
+G:\introto computer\programs\colorchange2\colorchange2\bin\Debug\colorchange2.xml
+G:\introto computer\programs\colorchange2\colorchange2\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\introto computer\programs\colorchange2\colorchange2\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\colorchange2\colorchange2\obj\x86\Debug\colorchange2.vbproj.GenerateResource.Cache
+G:\introto computer\programs\colorchange2\colorchange2\obj\x86\Debug\colorchange2.exe
+G:\introto computer\programs\colorchange2\colorchange2\obj\x86\Debug\colorchange2.xml
+G:\introto computer\programs\colorchange2\colorchange2\obj\x86\Debug\colorchange2.pdb

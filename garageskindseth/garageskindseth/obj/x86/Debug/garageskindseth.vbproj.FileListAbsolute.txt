@@ -1,0 +1,9 @@
+G:\introto computer\programs\garageskindseth\garageskindseth\bin\Debug\garageskindseth.exe
+G:\introto computer\programs\garageskindseth\garageskindseth\bin\Debug\garageskindseth.pdb
+G:\introto computer\programs\garageskindseth\garageskindseth\bin\Debug\garageskindseth.xml
+G:\introto computer\programs\garageskindseth\garageskindseth\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\introto computer\programs\garageskindseth\garageskindseth\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\garageskindseth\garageskindseth\obj\x86\Debug\garageskindseth.vbproj.GenerateResource.Cache
+G:\introto computer\programs\garageskindseth\garageskindseth\obj\x86\Debug\garageskindseth.exe
+G:\introto computer\programs\garageskindseth\garageskindseth\obj\x86\Debug\garageskindseth.xml
+G:\introto computer\programs\garageskindseth\garageskindseth\obj\x86\Debug\garageskindseth.pdb

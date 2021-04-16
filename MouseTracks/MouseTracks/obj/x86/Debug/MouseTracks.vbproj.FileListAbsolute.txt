@@ -1,0 +1,8 @@
+G:\introto computer\programs\MouseTracks\MouseTracks\bin\Debug\MouseTracks.exe
+G:\introto computer\programs\MouseTracks\MouseTracks\bin\Debug\MouseTracks.pdb
+G:\introto computer\programs\MouseTracks\MouseTracks\bin\Debug\MouseTracks.xml
+G:\introto computer\programs\MouseTracks\MouseTracks\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\introto computer\programs\MouseTracks\MouseTracks\obj\x86\Debug\MouseTracks.vbproj.GenerateResource.Cache
+G:\introto computer\programs\MouseTracks\MouseTracks\obj\x86\Debug\MouseTracks.exe
+G:\introto computer\programs\MouseTracks\MouseTracks\obj\x86\Debug\MouseTracks.xml
+G:\introto computer\programs\MouseTracks\MouseTracks\obj\x86\Debug\MouseTracks.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "coinstar2", "coinstar2\coinstar2.vbproj", "{CD05B5EB-D280-4E75-B12B-B84BFB2CF19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD05B5EB-D280-4E75-B12B-B84BFB2CF19F}.Debug|x86.ActiveCfg = Debug|x86
+		{CD05B5EB-D280-4E75-B12B-B84BFB2CF19F}.Debug|x86.Build.0 = Debug|x86
+		{CD05B5EB-D280-4E75-B12B-B84BFB2CF19F}.Release|x86.ActiveCfg = Release|x86
+		{CD05B5EB-D280-4E75-B12B-B84BFB2CF19F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
